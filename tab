@@ -1,0 +1,92 @@
+<!DOCKTYPE html>
+<html>
+<head>
+<title>about me</title>
+<link rel="icon" type="image/x-icon" href="images/3135715.png">
+<meta name="viewport" content="width=device-width, initial-scale=2.0">
+<style>
+
+</style>
+</head>
+<body>
+<div>
+I like Pizza 
+</div>
+<div>
+<!--<img src="images/png.png" width="500">-->
+</div>
+<div>
+<a href="https://www.google.com" target="_blank" title="find out">
+<h1> <mark>I like pizza!</mark></h1>
+</a>
+</div>
+<div>
+<dl>
+<dt>this is canada</dt>
+<dd>this is canada</dd>
+<dt>this is canada</dt>
+<dd>this is canada</dd>
+</dl>
+</div>
+<div>
+<!--<button onclick="dosomething()" style="background-color:black; color:white">click me </button>
+<p id="test">hello</p>
+<script>
+function dosomething(){
+document.getElementById("test").innerHTML = "goodbye"
+}
+</script>-->
+</div>
+<div>
+<form>
+<div>
+<label for="fname">first name:</label>
+<input type="text" id="fname" placeholder="john" required>
+</div>
+<br>
+<!--<div>
+</div>-->
+<div>
+<label for="suffix">suffix:</label>
+<label for="Mr">Mr</label>
+<input type="radio" id="Mr" name="suffix" value="Mr">
+<label for="Mrs">MS</label>
+<input type="radio" id="Mrs" name="suffix" value="Mrs">
+<label for="PHD">PHD</label>
+<input type="radio" id="PHD" name="suffix" value="PHD">
+</div>
+<br>
+<div>
+<input type="submit">
+</div>
+</form>
+</div>
+
+<div style="
+width: 100%; 
+padding-top: 67.4%;
+background: url('images/png.png');
+border-radius: 20px;
+background-size: contain;
+">
+
+</div>
+<p> this is a demo text lorem Hi.
+Can you make a video about the same thing, but when you don't know what the image dimensions are? For a user uploaded image or something similar, you don't know what the ratio is or there are multiple, so you can't apply a padding. </p>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
